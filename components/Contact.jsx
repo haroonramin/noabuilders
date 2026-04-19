@@ -37,7 +37,7 @@ const Contact = () => {
                     </h5>
                     <p className="mb-4">Our friendly team is here to help.</p>
                     <p className="font-semibold text-primary">
-                      lemar@noaconstructions.com
+                      lemar@noa.builders
                     </p>
                   </div>
                 </div>
@@ -52,7 +52,7 @@ const Contact = () => {
                     </h5>
                     <p className="mb-4">Come and say hello at our office.</p>
                     <p className="font-semibold text-primary">
-                      KefayatStreet, Mazar e Sharif, Balkh, Afghanistan
+                      Sadaat Market, KefayatStreet, Mazar e Sharif, Balkh, Afghanistan
                     </p>
                   </div>
                 </div>

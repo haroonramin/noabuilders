@@ -10,17 +10,17 @@ const statsData = [
     text: "Client Satisfaction",
   },
   {
-    endCountNum: 800,
+    endCountNum: 2,
     endCountText: "+",
     text: "Successful Projects",
   },
   {
-    endCountNum: 32,
-    endCountText: "k",
+    endCountNum: 20,
+    endCountText: "+",
     text: "Happy Clients",
   },
   {
-    endCountNum: 26,
+    endCountNum: 4,
     endCountText: "+",
     text: "Years of Experience",
   },

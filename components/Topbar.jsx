@@ -23,7 +23,7 @@ const Topbar = () => {
               <div className="w-8 h-8 bg-primary text-white flex items-center justify-center">
                 <RiMailFill />
               </div>
-              <p className="font-medium text-primary">lemarkhan@gmail.com</p>
+              <p className="font-medium text-primary">info@noa.builders</p>
             </div>
           </div>
           {/* socials */}
