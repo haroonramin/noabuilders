@@ -6,27 +6,27 @@ import { fadeIn } from "@/variants";
 const faqItemsData = [
   {
     title: "How long does a construction project usually take?",
-    description: "Timelines vary based on project size and complexity.",
+    description: "Timelines depend on project scope. Smaller projects may take a few months, while larger residential or commercial developments can take a year or more. We provide a clear schedule from day one and keep you updated throughout.",
   },
   {
     title: "Do I need permits for my project?",
-    description: "Timelines vary based on project size and complexity.",
+    description: "Yes, permits are typically required. We handle the full process—documentation, approvals, and coordination with authorities—to ensure your project is fully compliant.",
   },
   {
     title: "What materials do you use?",
-    description: "Timelines vary based on project size and complexity.",
+    description: "We use only high-quality, approved materials. Selections are tailored to your project’s design, durability needs, and budget, with options for premium finishes.We use only high-quality, approved materials. Selections are tailored to your project’s design, durability needs, and budget, with options for premium finishes.",
   },
   {
     title: "Can I make changes after construction starts?",
-    description: "Timelines vary based on project size and complexity.",
+    description: "Yes, with careful planning. Changes may affect cost and timeline, but we work closely with you to implement adjustments efficiently while maintaining quality and progress.",
   },
   {
     title: "How much will my construction project cost?",
-    description: "Timelines vary based on project size and complexity.",
+    description: "Costs depend on project size and specifications. Pricing varies based on design, materials, location, and overall scope. At NOA Builders, we provide detailed and transparent estimates after understanding your requirements, ensuring you receive the best value for your investment.",
   },
   {
     title: "How do you ensure quality and safety on-site?",
-    description: "Timelines vary based on project size and complexity.",
+    description: "We follow strict quality and safety standards at every stage. All materials are inspected, work is executed to approved specifications, and experienced engineers supervise every phase. We enforce safety protocols, conduct regular testing, and carry out daily site checks to ensure a safe, controlled, and high-quality construction environment.",
   },
 ];
 

@@ -24,10 +24,9 @@ const Slider = () => {
           {/* text */}
           <div className="flex-1 xl:max-w-[340px] flex flex-col gap-2">
             <p>
-              Exceeded expectations. On time, whitin budget and top quality
-              work. High recommend!
+               From start to finish, the entire construction team delivered outstanding work on our project. Professional, reliable, and truly a pleasure to work with. Highly recommended!
             </p>
-            <p className="font-primary font-semibold text-primary">Jane Doe</p>
+            <p className="font-primary font-semibold text-primary"></p>
           </div>
         </div>
       </SwiperSlide>
@@ -48,10 +47,9 @@ const Slider = () => {
           {/* text */}
           <div className="flex-1 xl:max-w-[340px] flex flex-col gap-2">
             <p>
-              Exceeded expectations. On time, whitin budget and top quality
-              work. High recommend!
+             Premier eco-luxury restoration specialists, passionately dedicated to sustainably revitalizing historic estates, heritage landmarks, and timeless properties.
             </p>
-            <p className="font-primary font-semibold text-primary">Jane Doe</p>
+            <p className="font-primary font-semibold text-primary"></p>
           </div>
         </div>
       </SwiperSlide>
@@ -75,7 +73,7 @@ const Slider = () => {
               Exceeded expectations. On time, whitin budget and top quality
               work. High recommend!
             </p>
-            <p className="font-primary font-semibold text-primary">Jane Doe</p>
+            <p className="font-primary font-semibold text-primary"></p>
           </div>
         </div>
       </SwiperSlide>

@@ -30,8 +30,7 @@ const Footer = () => {
               <Image src="/assets/logo.svg" width={230} height={48} alt="" />
             </Link>
             <p className="text-border max-w-[270px]">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi
-              ut libero pariatur voluptatum porro.
+              From concept to completion, we ensure every details is optimized for strength and endurance, creating solutions that inspire confidence and stand firm for years.
             </p>
           </div>
           {/* contact */}
@@ -53,30 +52,13 @@ const Footer = () => {
             </ul>
           </div>
           {/* newsletter */}
-          <div className="flex-1 text-border">
-            <h4 className="h4 text-white mb-10">Newsletter</h4>
-            <p className="mb-9">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut
-              animi architecto repudiandae aliquid iusto itaque!
-            </p>
-            {/* input */}
-            <div className="relative max-w-[370px]">
-              <input
-                type="text"
-                placeholder="Enter your email"
-                className="bg-[#222427] h-16 w-full pl-7 rounded-none outline-none flex items-center"
-              />
-              <button className="bg-accent w-12 h-12 absolute right-2 top-2 bottom-2 text-primary text-xl flex items-center justify-center">
-                <RiArrowRightLine />
-              </button>
-            </div>
-          </div>
+        
         </div>
       </div>
       {/* copyright */}
       <div className="container mx-auto xl:px-0 py-12 border-t border-border/10 flex flex-col gap-6 xl:flex-row items-center justify-between">
         <p className="text-border">
-          Copyright &copy; 2026 NoaConstructions. All rights reserved.
+          Copyright &copy; 2026 NOA Builders. All rights reserved.
         </p>
         <Socials
           containerStyles="flex gap-6 text-white"

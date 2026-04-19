@@ -23,8 +23,6 @@ const Contact = () => {
                 Contact Us
               </h4>
               <p className="mb-9">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi
-                delectus harum sint et nisi cupiditate?
               </p>
               {/* contact items */}
               <div className="flex flex-col gap-[40px] mb-16">
@@ -83,9 +81,7 @@ const Contact = () => {
             <div className="flex-1">
               <h2 className="h2 mb-3">Request A Quote</h2>
               <p className="mb-9">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic
-                debitis aliquid error deleniti quia voluptas odit temporibus
-                quos repellat corporis?
+                Got Questions? We've Got You Covered
               </p>
               <Form />
             </div>
