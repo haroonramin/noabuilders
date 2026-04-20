@@ -14,6 +14,7 @@ import Faq from "@/components/Faq";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 
+<link rel="icon" href="/favicon.ico" sizes="any" />
 const Home = () => {
   const [headerActive, setHeaderActive] = useState(false);
 

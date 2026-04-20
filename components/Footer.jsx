@@ -47,7 +47,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-4">
                 <RiMailFill className="text-accent text-xl" />
-                <p>lemarkhan@gmail.com</p>
+                <p>lemar@noa.builders</p>
               </li>
             </ul>
           </div>
