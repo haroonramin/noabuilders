@@ -39,7 +39,7 @@ const Footer = () => {
             <ul className="flex flex-col gap-6">
               <li className="flex items-center gap-4">
                 <RiMapPin2Fill className="text-accent text-xl" />
-                <p>KefayatStreet, Mazar e Sharif, Balkh, Afghanistan</p>
+                <p>Sadaat Market 4th Floor, Kefayat Street, Mazar e Sharif, Balkh, Afghanistan</p>
               </li>
               <li className="flex items-center gap-4">
                 <RiPhoneFill className="text-accent text-xl" />
